@@ -1,1 +1,1 @@
-![Screenshot](Chatbot.png)
+file:///home/sky/Pictures/Chatbot.png
